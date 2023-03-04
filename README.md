@@ -42,6 +42,9 @@ App Services URL :
 ## Contact Us
 ![Screenshot (33)](https://user-images.githubusercontent.com/96687722/222920616-10d357da-e29c-4afb-9bd3-09269f661328.png)
 
+## Azure
+![Screenshot (34)](https://user-images.githubusercontent.com/96687722/222920715-a3b75ffa-40ea-495a-8b18-dbb31effd4c0.png)
+
 
 
 
