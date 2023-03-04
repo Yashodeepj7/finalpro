@@ -22,7 +22,7 @@ Project Description : Best Food Quality Is Important To Us Every One Good Health
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : 
+Static Web App URL : https://agreeable-mushroom-07de78110.2.azurestaticapps.net/
 
 App Services URL : 
 
