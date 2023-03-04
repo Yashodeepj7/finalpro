@@ -29,7 +29,7 @@ App Services URL :
 ##  My Website Link: 
 
 ## Homepage
-![Screenshot 2022-10-06 085001](https://user-images.githubusercontent.com/111065540/194206667-2aecb37e-8f9f-4702-ad67-344a7021efe7.jpg)
+![Screenshot (28)](https://user-images.githubusercontent.com/96687722/222920082-7ae27592-5ad3-4aad-9d40-4e11db7edcf3.png)
 ![Screenshot 2022-10-06 084933](https://user-images.githubusercontent.com/111065540/194206669-31c1759f-7f9b-4b81-9331-c94e2b679965.jpg)
 ![Screenshot 2022-10-06 084831](https://user-images.githubusercontent.com/111065540/194206674-cbc8cf54-6271-4e85-beaa-764f785631e1.jpg)
 
@@ -48,6 +48,7 @@ App Services URL :
 
 ## Azure Services 
 ![Screenshot 2022-10-28 204441](https://user-images.githubusercontent.com/111065540/198673984-be9c5328-7f3c-4b7a-b16b-9f53c3083451.jpg)
+
 
 
 
