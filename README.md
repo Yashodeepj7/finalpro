@@ -29,25 +29,11 @@ App Services URL :
 ##  My Website Link: 
 
 ## Homepage
-![Screenshot (28)](https://user-images.githubusercontent.com/96687722/222920082-7ae27592-5ad3-4aad-9d40-4e11db7edcf3.png)
-![Screenshot 2022-10-06 084933](https://user-images.githubusercontent.com/111065540/194206669-31c1759f-7f9b-4b81-9331-c94e2b679965.jpg)
-![Screenshot 2022-10-06 084831](https://user-images.githubusercontent.com/111065540/194206674-cbc8cf54-6271-4e85-beaa-764f785631e1.jpg)
+![Screenshot (28)](https://user-images.githubusercontent.com/96687722/222920456-3305ef15-5702-4e51-9249-2269fb5c4458.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/96687722/222920464-0a3b5573-0351-4e1d-87f7-83a2b4fe5a14.png)
 
 ## About Us
-![Screenshot 2022-10-06 085229](https://user-images.githubusercontent.com/111065540/194206916-4dff3228-bcd0-424b-9fce-8714641fa47d.jpg)
-![Screenshot 2022-10-06 085212](https://user-images.githubusercontent.com/111065540/194206921-135c0e3e-5d56-42de-ba27-590f3f1d6b9b.jpg)
-![Screenshot 2022-10-06 085153](https://user-images.githubusercontent.com/111065540/194206924-1948e5d9-d01f-4866-b37d-6f9a9c3696a9.jpg)
-
-## Menu
-![Screenshot 2022-10-06 085350](https://user-images.githubusercontent.com/111065540/194207092-8f7cd3a0-3163-48e3-8e71-fb2b61c3ffc7.jpg)
-![Screenshot 2022-10-06 085333](https://user-images.githubusercontent.com/111065540/194207100-40553183-4b80-48f8-ae59-194f6e21fb96.jpg)
-![Screenshot 2022-10-06 085315](https://user-images.githubusercontent.com/111065540/194207104-ef0d79a6-7781-4706-a466-9c360ef48340.jpg)
-
-## Contact US
-![Screenshot 2022-10-06 085445](https://user-images.githubusercontent.com/111065540/194207217-d4a33b03-3351-4087-b7bc-2a35bd42e194.jpg)
-
-## Azure Services 
-![Screenshot 2022-10-28 204441](https://user-images.githubusercontent.com/111065540/198673984-be9c5328-7f3c-4b7a-b16b-9f53c3083451.jpg)
+![Screenshot (30)](https://user-images.githubusercontent.com/96687722/222920476-ef6f066a-cfc8-4b0c-94cf-84da24f0a167.png)
 
 
 
