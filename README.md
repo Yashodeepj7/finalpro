@@ -1,4 +1,4 @@
-##  finalpro:Future Ready Talent Project By Guduru Bharat Kumar
+##  finalpro:Future Ready Talent Project By YASHODEEP JOSHI
 Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available.
 Description:
 1.Food is any substance consumed to provide nutritional support and energy to an organism.
@@ -22,11 +22,11 @@ Project Description : Best Food Quality Is Important To Us Every One Good Health
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
+Static Web App URL : 
 
-App Services URL : https://foodieswebsite.azurewebsites.net/
+App Services URL : 
 
-##  My Website Link: https://orange-bush-07c571410.2.azurestaticapps.net/
+##  My Website Link: 
 
 ## Homepage
 ![Screenshot 2022-10-06 085001](https://user-images.githubusercontent.com/111065540/194206667-2aecb37e-8f9f-4702-ad67-344a7021efe7.jpg)
