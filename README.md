@@ -35,6 +35,13 @@ App Services URL :
 ## About Us
 ![Screenshot (30)](https://user-images.githubusercontent.com/96687722/222920476-ef6f066a-cfc8-4b0c-94cf-84da24f0a167.png)
 
+## Menu
+![Screenshot (31)](https://user-images.githubusercontent.com/96687722/222920596-bb498989-ebfe-4df2-8c2c-be4d1fbc14fa.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/96687722/222920600-e82050ff-c5e6-423a-9d74-552d6ba6f9c2.png)
+
+## Contact Us
+![Screenshot (33)](https://user-images.githubusercontent.com/96687722/222920616-10d357da-e29c-4afb-9bd3-09269f661328.png)
+
 
 
 
